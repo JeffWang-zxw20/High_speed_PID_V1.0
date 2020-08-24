@@ -62,3 +62,4 @@
 ..\obj\main.o: ..\HARDWARE\LED\led.h
 ..\obj\main.o: ..\HARDWARE\KEY\key.h
 ..\obj\main.o: ..\HARDWARE\TIMER\timer.h
+..\obj\main.o: ..\HARDWARE\MOTOR\motor.h
